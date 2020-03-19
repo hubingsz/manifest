@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<manifest>
+    <remote name="hubingsz" 
+      fetch=".." 
+      review ="git@github.com:hubingsz/" />
+    <default remote="hubingsz" revision="master"/>
+    <project path="bb" name="aa/bb"/>
+    <project path="manifest" name="manifest"/>
+</manifest>
