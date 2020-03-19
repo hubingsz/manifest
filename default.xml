@@ -5,8 +5,8 @@
       fetch=".." 
       review ="git@github.com:hubingsz/" />
     <default remote="hubingsz" revision="master"/>
-    <project path="linux.kernel.driver" name="hubingsz/linux.kernel.driver"/>
-    <project path="linux.apps.c.test" name="hubingsz/linux.apps.c.test"/>
-    <project path="linux.uboot" name="hubingsz/linux.uboot"/>
+    <project path="linux.uboot" name="linux.uboot" groups="hubingsz" />
+    <project path="linux.apps.c.test" name="linux.apps.c.test" groups="hubingsz" />
+     <project path="linux.kernel.driver" name="linux.kernel.driver" groups="hubingsz" />
     <project path="manifest" name="manifest"/>
 </manifest>
