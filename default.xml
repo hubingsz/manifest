@@ -5,5 +5,5 @@
       fetch=".." 
       review ="git@github.com:hubingsz/" />
     <default remote="hubingsz" revision="master"/>
-    <project path="hubingsz/linux.uboot" name="linux.uboot" groups="hubingsz" />
+    <project path="hubingsz/linux.uboot" name="hubingsz/linux.uboot" groups="hubingsz" />
 </manifest>
